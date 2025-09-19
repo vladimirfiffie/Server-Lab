@@ -27,7 +27,7 @@ simple_http_server/
 
 1. Open a terminal and navigate to the project folder:
    ```bash
-   cd simple_http_server
+   cd Lab\ 1/simple_http_server
    ```
 
 2. Start the server:
